@@ -8,6 +8,15 @@
             <sparkle:version>251219</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <!-- 在这里添加详细说明 -->
+            <description><![CDATA[
+                <h3>v1.0.1 更新内容：</h3>
+                <ul>
+                    <li>✅ 修复了应用导出后无法打开的签名问题</li>
+                    <li>✅ 优化了 App Sandbox 环境下的自动更新检测</li>
+                    <li>✅ 提升了应用启动的稳定性</li>
+                </ul>
+            ]]></description>
             <enclosure url="https://github.com/sillyaboy/LinkSet-Updates/releases/download/1.0.1/LinkSet_v1.0.1.zip" length="3248977" type="application/octet-stream"/>
         </item>
     </channel>
