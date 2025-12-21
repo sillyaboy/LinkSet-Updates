@@ -4,20 +4,11 @@
         <title>LinkSet</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Fri, 19 Dec 2025 13:48:45 +0800</pubDate>
-            <sparkle:version>251219</sparkle:version>
+            <pubDate>Sun, 21 Dec 2025 22:25:16 +0800</pubDate>
+            <sparkle:version>251221</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <!-- 在这里添加详细说明 -->
-            <description><![CDATA[
-                <h3>v1.0.1 更新内容：</h3>
-                <ul>
-                    <li>✅ 修复了应用导出后无法打开的签名问题</li>
-                    <li>✅ 优化了 App Sandbox 环境下的自动更新检测</li>
-                    <li>✅ 提升了应用启动的稳定性</li>
-                </ul>
-            ]]></description>
-            <enclosure url="LinkSet_v1.0.1.zip" length="3248977" type="application/octet-stream"/>
+            <enclosure url="LinkSet_v1.0.1(251221).zip" length="3290379" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
