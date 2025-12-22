@@ -4,25 +4,11 @@
         <title>LinkSet</title>
         <item>
             <title>1.1</title>
-            <pubDate>Mon, 22 Dec 2025 20:08:26 +0800</pubDate>
+            <pubDate>Mon, 22 Dec 2025 21:06:28 +0800</pubDate>
             <sparkle:version>251223</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <!-- 详细更新说明开始 -->
-            <description>
-                <![CDATA[                
-                    <h3>🚀 v1.1 更新内容</h3>
-                    <ul>
-                        <li><b>✨ 架构演进：</b> 严格遵循 Sparkle 2 官方标准重构了更新逻辑，运行更稳健。</li>
-                        <li><b>🛠️ 权限修复：</b> 解决了沙盒模式（App Sandbox）下的 XPC 通信异常，确保更新流程顺畅。</li>
-                        <li><b>🎨 UI 优化：</b> 改进了设置面板与菜单栏的“检查更新”按钮状态，解决状态不刷新的问题。</li>
-                        <li><b>🔒 安全增强：</b> 优化了构建期间的重签名脚本，提升了应用分发的安全性。</li>
-                    </ul>
-                    <p>注：建议所有用户升级至此版本以获得更完美的自动更新体验。</p>
-                
-                ]]>
-            </description>
-            <enclosure sparkle:edSignature="wRECnfd1wl5LjrmSr0WIWVECWmPjJ/t9uxiFgixkXLHSdK7PSxRvZ4ULg86sQ3ouCPOrQ5IKoSlC5uFE1zarDg==" length="3314197" url="LinkSet_1.1.zip" type="application/octet-stream"/>
+            <enclosure url="LinkSet_1.1_signed.zip" sparkle:edSignature="ZHzcanjFC6Rd1e6fUjo2CGrybUSeOazsaWeOPLh4SFUv4jz/28U/UrsM7xgsCAIzUY0C35G2CYk+EdIQl3BBAw==" length="5066908" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
