@@ -4,7 +4,7 @@
         <title>LinkSet</title>
         <item>
             <title>1.1</title>
-            <pubDate>Mon, 22 Dec 2025 13:22:46 +0800</pubDate>
+            <pubDate>Mon, 22 Dec 2025 20:08:26 +0800</pubDate>
             <sparkle:version>251223</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -22,7 +22,7 @@
                 
                 ]]>
             </description>
-            <enclosure url="LinkSet_1.1.zip" length="3239007" type="application/octet-stream"/>
+            <enclosure sparkle:edSignature="wRECnfd1wl5LjrmSr0WIWVECWmPjJ/t9uxiFgixkXLHSdK7PSxRvZ4ULg86sQ3ouCPOrQ5IKoSlC5uFE1zarDg==" length="3314197" url="LinkSet_1.1.zip" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
