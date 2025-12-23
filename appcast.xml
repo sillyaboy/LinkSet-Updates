@@ -4,21 +4,11 @@
         <title>LinkSet</title>
         <item>
             <title>1.1</title>
-            <pubDate>Tue, 23 Dec 2025 23:42:52 +0800</pubDate>
-            <sparkle:version>251223</sparkle:version>
+            <pubDate>Tue, 23 Dec 2025 23:59:30 +0800</pubDate>
+            <sparkle:version>251224</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description>
-                <![CDATA[                
-                    <h3>🚀 v1.1(251223) 更新内容</h3>
-                    <ul>
-                        <li><b>✨ 架构演进：</b> 严格遵循 Sparkle 2 官方标准重构了更新逻辑，运行更稳健。</li>
-                    </ul>
-                    <p>注：建议所有用户升级至此版本以获得更完美的自动更新体验。</p>
-                
-                ]]>
-            </description>
-            <enclosure url="LinkSet_1.1.zip" sparkle:edSignature="/eaBlPiOKs7cXggVRL3nz1VwthzSUshSJA7/ZI/mdUqgPtTgVyZEdhMc2bEc3v80L3vxpCcMcpcj2dizc1NcBQ==" length="3361604" type="application/octet-stream"/>
+            <enclosure url="LinkSet_1.1.zip" sparkle:edSignature="oNhPRt3ZCNIuXAsv5LCfQQN5yo+j1dpjJK8orTlvnXoS+0u5WEbQcM0EJkSln2rpReTUEfrSrokqSBLbPhIfBg==" length="3318123" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
